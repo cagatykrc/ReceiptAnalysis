@@ -1,0 +1,2 @@
+Çıktı dosyalarını almak için, terminal veya IDE aracılığıyla projenin bulunduğu dizinde yukarıdaki komutu çalıştırın. 
+İşlem tamamlandığında, dist klasörünün içinde oluşturulan exe dosyası ve pdf dosyası bulunacaktır.

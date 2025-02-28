@@ -42,11 +42,7 @@ pyinstaller ReceiptAnalysis.spec
 ### Örnek Kullanım / Example Usage
 Gerekli PDF dekontlarını **pdf** klasörüne atın. Programı açıp çalıştırarak dekontları analiz edin.
 
-```python
-from main import extract_info_from_receipt
 
-dekont_analiz("dosya.pdf", "cikti.xlsx")
-```
 
 ## Lisans / License
 Bu proje MIT lisansı ile lisanslanmıştır.
